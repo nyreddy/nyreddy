@@ -21,7 +21,19 @@ Experienced Cloud Engineer with 6+ years in Enterprise IT Infrastructure and App
 - **Innovation:** Passionate about driving innovation and adopting new technologies for efficient cloud solutions.
 
 ## Projects
-- **3tierapp-terraform
+
+### 1. 3TierApp-Terraform 
+
+- Description: A Terraform project for deploying a scalable three-tier application on AWS.
+- Technologies: AWS, Terraform
+- Repository: https://github.com/your-username/AWS-S3-StaticWebsite-Using-Terraform
+
+### 2. AWS-S3-StaticWebsite-Using-Terraform
+
+- Description: Terraform configuration for deploying a static website on AWS S3.
+- Technologies: AWS, Terraform
+- Repository: https://github.com/your-username/3TierApp-Terraform)](https://github.com/nyreddy/aws-s3-staticwebsite-using-terraform
+
 
 ## Contact Me
 
