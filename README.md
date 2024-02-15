@@ -20,6 +20,9 @@ Experienced Cloud Engineer with 6+ years in Enterprise IT Infrastructure and App
 - **Analytical Skills:** Strong analytical skills, with Linux systems administration experience in cloud or virtualized environments.
 - **Innovation:** Passionate about driving innovation and adopting new technologies for efficient cloud solutions.
 
+## Projects
+- **3tierapp-terraform
+
 ## Contact Me
 
 - LinkedIn -https://www.linkedin.com/in/yedla-naveen
