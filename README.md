@@ -23,6 +23,6 @@ Experienced Cloud Engineer with 6+ years in Enterprise IT Infrastructure and App
 ## Contact Me
 
 - [LinkedIn]([https://www.linkedin.com/in/your-profile/)](https://www.linkedin.com/in/yedla-naveen/)
-- [Email](ynr.yedla@gmail.com)
+- [Email]ynr.yedla@gmail.com
 
 Feel free to reach out to discuss collaborations, opportunities, or just to say hi!
