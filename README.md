@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Naveen Yedla 👋
 
 Experienced Cloud Engineer with 6+ years in Enterprise IT Infrastructure and Application development. Specialized in AWS, adept at strategic thinking for business objectives and overcoming technical hurdles. 
 
@@ -8,7 +8,7 @@ Experienced Cloud Engineer with 6+ years in Enterprise IT Infrastructure and App
 - **DevOps Tools:** Terraform, Ansible, Jenkins
 - **Programming Languages:** Python
 - **Methodologies:** Agile
-- **Monitoring Tools:** [Add monitoring tools here]
+- **Monitoring Tools:** Promethus, Grafana
 - **Operating Systems:** Linux
 
 ## Experience
@@ -22,7 +22,7 @@ Experienced Cloud Engineer with 6+ years in Enterprise IT Infrastructure and App
 
 ## Contact Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile/)
-- [Email](mailto:your-email@example.com)
+- [LinkedIn]([https://www.linkedin.com/in/your-profile/)](https://www.linkedin.com/in/yedla-naveen/)
+- [Email](mailto:ynr.yedla@gmail.com)
 
 Feel free to reach out to discuss collaborations, opportunities, or just to say hi!
