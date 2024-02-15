@@ -4,7 +4,7 @@ Experienced Cloud Engineer with 6+ years in Enterprise IT Infrastructure and App
 
 ## Skills
 
-- **Cloud Platforms:** AWS (Amazon Web Services)
+- **Cloud Platforms:** AWS (Amazon Web Services), Azure, GCP (Google Cloud Platform)
 - **DevOps Tools:** Terraform, Ansible, Jenkins
 - **Programming Languages:** Python
 - **Methodologies:** Agile
